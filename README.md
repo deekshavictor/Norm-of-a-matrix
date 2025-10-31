@@ -29,18 +29,23 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 
 
 ```
+<img width="496" height="183" alt="image" src="https://github.com/user-attachments/assets/92cf6478-5aa5-4539-9e15-1b6f72621796" />
+<img width="431" height="307" alt="image" src="https://github.com/user-attachments/assets/768f8a31-3910-4a19-abc3-07eae525e31b" />
+<img width="435" height="180" alt="image" src="https://github.com/user-attachments/assets/51e1059d-5001-4977-9b66-30e62305250d" />
+
+
 ## Output:
 ### 1-Norm of a Matrix
-<br>
-<br>
-<br>
+<img width="695" height="227" alt="image" src="https://github.com/user-attachments/assets/24e578c9-76b4-4add-9621-3abaccd2bac0" />
+
 
 ### 2-Norm of a Matrix
-<br>
-<br>
-<br>
+<img width="528" height="253" alt="image" src="https://github.com/user-attachments/assets/b714ec4e-aa6b-48c4-b89c-5a475586990a" />
+
 
 ### Infinity Norm of a Matrix
+<img width="627" height="211" alt="image" src="https://github.com/user-attachments/assets/9ef39644-cfcd-4299-b0c9-55f15b3550ad" />
+
 <br>
 <br>
 <br>
